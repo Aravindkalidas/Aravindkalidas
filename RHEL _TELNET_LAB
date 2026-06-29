@@ -35,7 +35,7 @@ Test the connection locally or from a remote host:
 Enable telnet in Windows features from control panel
 
 Deploy the telnet client in Windows Command Prompt (as Administrator):
-`dism /online /enable-feature /enable:telnetclient`
+`dism /online /enable-feature /enable:telnetclient` #deploy image service management (DISM)
 
 Connect to the windows machine:
 `telnet 192.168.29.10`

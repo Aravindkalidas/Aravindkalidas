@@ -1,0 +1,47 @@
+Certainly! Here is the refined configuration guide formatted exactly like the style shown in "image_bfe1e2.png":
+
+# Configuration Steps
+
+### 1. Check/Install Package
+
+Verify if the package is installed:
+`rpm -qa telnet-*`
+
+### 2. Install Telnet (if not installed)
+
+Install the service using:
+`yum install telnet-* -Y`
+
+### 3. Enable and Start the Socket
+
+`systemctl enable telnet.socket`
+`systemctl start telnet.socket`
+
+check the status 
+`systemctl status telnet.socket`
+
+### 4. Configure Firewall
+
+Allow traffic on TCP port 23:
+`firewall-cmd --permanent --add-port=23/tcp`
+`firewall-cmd --reload`
+
+### 5. Verify
+
+Test the connection locally or from a remote host:
+`telnet 192.168.29.10`
+
+### 6. Connect from Windows Machine
+Enable telnet in Windows features from control panel
+
+Deploy the telnet client in Windows Command Prompt (as Administrator):
+`dism /online /enable-feature /enable:telnetclient`
+
+Connect to the windows machine:
+`telnet 192.168.29.10`
+enter username & password 
+
+Hence configured telnet in windows and linux machine
+
+
+

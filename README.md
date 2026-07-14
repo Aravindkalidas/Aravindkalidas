@@ -1,6 +1,4 @@
-Here is a polished, ATS-friendly version of your resume that improves readability and emphasizes your technical transition into Cloud and Infrastructure. You can copy and paste this directly.
 
----
 
 **ARAVIND K**
 Coimbatore, India | +91 99445 95520 | arvind202023@gmail.com

@@ -1,18 +1,3 @@
-# Hi 👋 I'm Aravind
-
-Cloud & Infrastructure Engineer 
-
-## Skills
-
-- AWS
-- Windows Server
-- VMware
-- Networking
-- Linux
-
-
-## Projects
-
-- AWS Cloud Lab
-- Redhat Linux Lab
-
+## 📄 My Resume
+You can view or download my professional resume here:
+[Download My Resume](Aravind_Cloud_Engineer_Resume.pdf)

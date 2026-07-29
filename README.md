@@ -5,7 +5,7 @@ Coimbatore, India | +91 99445 95520 | arvind202023@gmail.com
 [linkedin.com/in/aravind-kalidass-0b7161175](https://www.google.com/search?q=https://linkedin.com/in/aravind-kalidass-0b7161175)
 
 **PROFESSIONAL SUMMARY**
-Aspiring Cloud & Infrastructure Engineer with hands-on experience in AWS, Azure, RHEL, and Windows Server administration. Proficient in cloud resource provisioning, server management, system monitoring, and network troubleshooting. Transitioned from a technical documentation background, bringing a unique blend of analytical rigor, precise communication, and a strong commitment to delivering scalable IT solutions. Eager to contribute to Cloud Operations or Infrastructure teams as a full-time professional.
+Cloud and Infrastructure enthusiast seeking an entry-level opportunity in Cloud Operations, Cloud Engineering,Infrastructure Support, or DevOps. Hands-on experience with AWS, Azure, Linux Administration, Windows Server,networking fundamentals, and cloud infrastructure labs. Skilled in provisioning cloud resources, server administration,troubleshooting, system monitoring, and basic automation. Passionate about building reliable, secure, and scalable ITinfrastructure environments.
 
 **TECHNICAL SKILLS**
 
@@ -15,14 +15,6 @@ Aspiring Cloud & Infrastructure Engineer with hands-on experience in AWS, Azure,
 * **Networking:** TCP/IP, Routing, Switching, Subnetting, VPN, SSH, Telnet, Cisco Packet Tracer.
 * **Tools:** PuTTY, XML-based authoring, Git/GitHub.
 
-**PROFESSIONAL EXPERIENCE**
-
-**AKKODIS INDIA | Bangalore**
-*Engineer I | 05/2023 – 07/2025*
-
-* Developed and maintained over 300 Airbus Structural Repair Manuals (SRM) adhering to strict ATA iSpec2200 standards.
-* Conducted impact analysis and authored technical documentation for major Airbus aircraft programs (Single Aisle and Long-Range models).
-* Collaborated with cross-functional teams and trained new members, consistently ensuring high-quality, compliant documentation.
 
 **CMSI TECH | Coimbatore**
 *Cloud Intern | 08/2025 – 04/2026*
@@ -33,10 +25,7 @@ Aspiring Cloud & Infrastructure Engineer with hands-on experience in AWS, Azure,
 * Configured Azure resources including Virtual Machines, Site-to-Site VPNs, and Azure Monitor for proactive system health tracking.
 * Performed remote server administration and troubleshooting using SSH, Telnet, and PuTTY.
 
-**AKKODIS | Bangalore**
-*Technical Author Intern | 10/2022 – 05/2023*
 
-* Authored and maintained XML-based technical manuals for Airbus Long-Range aircraft, ensuring full compliance with aerospace industry standards.
 
 **EDUCATION**
 
@@ -46,7 +35,6 @@ Aspiring Cloud & Infrastructure Engineer with hands-on experience in AWS, Azure,
 
 **CERTIFICATIONS & AWARDS**
 
-* **Delivery Excellence Certificate:** Awarded by Akkodis for highest delivery volume.
 * **Cloud Internship Certification:** CMSI Tech.
 
 **SOFT SKILLS**

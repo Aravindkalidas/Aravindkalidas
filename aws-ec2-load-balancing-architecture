@@ -1,0 +1,27 @@
+# AWS Load Balancer Infrastructure Setup
+
+This repository contains the architecture design and deployment configuration for an high-availability AWS network infrastructure using both an **Application Load Balancer (ALB)** and a **Network Load Balancer (NLB)**.
+
+---
+
+## 📐 Architecture Diagram
+
+```mermaid
+graph TD
+    Client[Internet Traffic]
+
+    subgraph VPC [VPC: vpc-0c4d7d44e0d930cce]
+        ALB[test-alb: Application Load Balancer]
+        NLB[test-NLB: Network Load Balancer]
+        
+        subgraph Subnet [AZ: us-east-1a]
+            EC2_1[mywebserver-1-ALB / t3.micro]
+            EC2_2[mywebserver2-ALB / t3.micro]
+        end
+    end
+
+    Client -->|HTTP / Layer 7| ALB
+    Client -->|TCP / Layer 4| NLB
+    ALB -->|Target Group| EC2_1
+    ALB -->|Target Group| EC2_2
+    NLB -->|Target Group| EC2_1
